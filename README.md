@@ -9,4 +9,4 @@
 ### *NumPy* (https://numpy.org) 
 
 ## Algorithm Summary
-### Please see our paper, [published] (https://ieeexplore.ieee.org/document/9952951) in IEEE Xplore, for an in depth summary of the implementation, methodology, training, and testing of the algorithm. Download the complete paper [here] (https://drive.google.com/file/d/1023BaQfXEqCPP_hXNdtcU4aYn2UcBy7U/view?usp=sharing)
+### Please see our paper, [published](https://ieeexplore.ieee.org/document/9952951) in IEEE Xplore, for an in depth summary of the implementation, methodology, training, and testing of the algorithm. Download the complete paper [here](https://drive.google.com/file/d/1023BaQfXEqCPP_hXNdtcU4aYn2UcBy7U/view?usp=sharing)
