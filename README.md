@@ -9,6 +9,7 @@
 #### *Scikit-learn* (https://scikit-learn.org/)
 #### *Pandas* (https://pandas.pydata.org/)
 #### *NumPy* (https://numpy.org) 
+#### *Seaborn* (https://seaborn.pydata.org)
 
 ## Goals
 #### 1. Train relevancy classifier for tweets relating to Prop 16
