@@ -1,4 +1,5 @@
-<img width="690" alt="Screenshot 2024-07-17 at 9 32 02 PM" src="https://github.com/user-attachments/assets/ec35b368-6ee6-450f-8a14-779f5b84e6e9"># Stance-Detection-of-Political-Tweets-with-Transformer-Architectures
+# Stance-Detection-of-Political-Tweets-with-Transformer-Architectures
+
 #### Stance detection AI model that employs sentiment analysis to assess user stances towards political issues on social media and predicts election results regarding controversial policies, namely California’s Prop 16, with a joint accuracy of 82%.
 
 ## Built With 
